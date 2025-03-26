@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Mega\\Desktop\\Нова папка\\Messaging\\Messaging\\Messaging.csproj": {}
+    "d:\\Users\\Mega\\Desktop\\Нова папка\\Messaging\\Messaging\\Messaging.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Mega\\Desktop\\Нова папка\\Messaging\\Messaging\\Messaging.csproj": {
+    "d:\\Users\\Mega\\Desktop\\Нова папка\\Messaging\\Messaging\\Messaging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Mega\\Desktop\\Нова папка\\Messaging\\Messaging\\Messaging.csproj",
+        "projectUniqueName": "d:\\Users\\Mega\\Desktop\\Нова папка\\Messaging\\Messaging\\Messaging.csproj",
         "projectName": "Messaging",
-        "projectPath": "D:\\Users\\Mega\\Desktop\\Нова папка\\Messaging\\Messaging\\Messaging.csproj",
+        "projectPath": "d:\\Users\\Mega\\Desktop\\Нова папка\\Messaging\\Messaging\\Messaging.csproj",
         "packagesPath": "C:\\Users\\Mega\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Mega\\Desktop\\Нова папка\\Messaging\\Messaging\\obj\\",
+        "outputPath": "d:\\Users\\Mega\\Desktop\\Нова папка\\Messaging\\Messaging\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mega\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+d:\Users\Mega\Desktop\Нова папка\Messaging\Messaging\bin\Debug\net9.0\Messaging.exe
+d:\Users\Mega\Desktop\Нова папка\Messaging\Messaging\bin\Debug\net9.0\Messaging.deps.json
+d:\Users\Mega\Desktop\Нова папка\Messaging\Messaging\bin\Debug\net9.0\Messaging.runtimeconfig.json
+d:\Users\Mega\Desktop\Нова папка\Messaging\Messaging\bin\Debug\net9.0\Messaging.dll
+d:\Users\Mega\Desktop\Нова папка\Messaging\Messaging\bin\Debug\net9.0\Messaging.pdb
+d:\Users\Mega\Desktop\Нова папка\Messaging\Messaging\obj\Debug\net9.0\Messaging.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\Mega\Desktop\Нова папка\Messaging\Messaging\obj\Debug\net9.0\Messaging.AssemblyInfoInputs.cache
+d:\Users\Mega\Desktop\Нова папка\Messaging\Messaging\obj\Debug\net9.0\Messaging.AssemblyInfo.cs
+d:\Users\Mega\Desktop\Нова папка\Messaging\Messaging\obj\Debug\net9.0\Messaging.csproj.CoreCompileInputs.cache
+d:\Users\Mega\Desktop\Нова папка\Messaging\Messaging\obj\Debug\net9.0\Messaging.sourcelink.json
+d:\Users\Mega\Desktop\Нова папка\Messaging\Messaging\obj\Debug\net9.0\Messaging.dll
+d:\Users\Mega\Desktop\Нова папка\Messaging\Messaging\obj\Debug\net9.0\refint\Messaging.dll
+d:\Users\Mega\Desktop\Нова папка\Messaging\Messaging\obj\Debug\net9.0\Messaging.pdb
+d:\Users\Mega\Desktop\Нова папка\Messaging\Messaging\obj\Debug\net9.0\Messaging.genruntimeconfig.cache
+d:\Users\Mega\Desktop\Нова папка\Messaging\Messaging\obj\Debug\net9.0\ref\Messaging.dll
